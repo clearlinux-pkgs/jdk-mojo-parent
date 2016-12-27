@@ -1,0 +1,6 @@
+# Cobertura plugin is executed only during clean Maven phase.
+python3 /usr/share/java-utils/pom_editor.py pom_remove_plugin :cobertura-maven-plugin
+
+python3 /usr/share/java-utils/pom_editor.py pom_remove_plugin :maven-enforcer-plugin
+
+python3 /usr/share/java-utils/mvn_alias.py : org.codehaus.mojo:mojo

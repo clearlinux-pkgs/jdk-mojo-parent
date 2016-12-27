@@ -1,0 +1,25 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+jdk-maven-reporting-api
+jdk-maven-plugin-tools
+jdk-parboiled
+jdk-maven-reporting-exec
+jdk-maven-archiver
+jdk-doxia
+jdk-doxia-sitetools
+jdk-glassfish-servlet-api
+jdk-plexus-archiver
+jdk-plexus-i18n
+jdk-velocity
+jdk-plexus-velocity
+jdk-maven-javadoc-plugin
+jdk-maven-site-plugin
+jdk-xbean
+jdk-maven-shared-utils
+jdk-plexus-io
+jdk-commons-compress
+jdk-snappy-java
+jdk-xmlunit
+jdk-pegdown
+jdk-commons-collections
+jdk-doxia-integration-tools
